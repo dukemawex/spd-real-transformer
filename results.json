@@ -1,0 +1,10 @@
+{
+  "alive": 32,
+  "distinct_freqs": 1,
+  "freq_hist": {
+    "17": 32
+  },
+  "cluster_vs_freq_ari": 0.0,
+  "cluster_vs_freq_nmi": 0.0,
+  "test_acc": 1.0
+}
