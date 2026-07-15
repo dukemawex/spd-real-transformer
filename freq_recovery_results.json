@@ -1,0 +1,16 @@
+{
+  "acc": 1.0,
+  "C": 48,
+  "alive": 48,
+  "distinct_component_freqs": 1,
+  "true_top4": [
+    11,
+    12,
+    17,
+    26
+  ],
+  "recovered": [
+    17
+  ],
+  "n_recovered": 1
+}

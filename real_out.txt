@@ -1,0 +1,10 @@
+  step     0 loss 4.1886 test_acc 0.012
+  step  1500 loss 0.0080 test_acc 0.799
+  step  3000 loss 0.0021 test_acc 0.861
+  step  4500 loss 0.0005 test_acc 1.000
+retrained, acc=1.000
+alive components: 48
+component frequencies: {17: 48}
+true top-4 freqs: [11, 12, 17, 26] | recovered by components: [17] (1/4)
+saved
+DONE
