@@ -31,3 +31,8 @@ This redirects the SPD clustering agenda: **invest in gate/component specializat
 - Bushnaq, Braun, Sharkey (2025). *Stochastic Parameter Decomposition.* arXiv:2506.20790.
 - Nanda et al. (2023). *Progress measures for grokking via mechanistic interpretability.* ICLR.
 - Elhage et al. (2022). *Toy Models of Superposition.* Anthropic.
+
+---
+
+## Implemented next step: stronger annealed SPD (C=48)
+See `next_freq_recovery.py`. Even with more components + longer schedule, decomposed components recover only 1 of the model's 4 true Fourier frequencies — confirming the specialization bottleneck on a real model.
